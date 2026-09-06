@@ -1,4 +1,4 @@
-# AMBA AHB 
+# AMBA AHB5
 
 A fully functional, synthesizable Verilog implementation of an **AMBA AHB-Lite** (Advanced High-performance Bus) interconnect system[cite: 1, 2, 3, 4, 6]. This project features a complete system architecture including an AHB-Lite Master with burst and transfer size support[cite: 2], a 1-of-N Decoder[cite: 1], a Slave Response Mux[cite: 3], 8 Slaves backed by external memory[cite: 4, 6], a Default Slave for error handling[cite: 4, 6], and a verification testbench.
 
